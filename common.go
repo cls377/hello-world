@@ -47,4 +47,5 @@ func NewSynchronizedMap() *SynchronizedMap {
 		data: make(map[interface{}]interface{}),
 	}
 }
-///Hello
+
+///Hello world
